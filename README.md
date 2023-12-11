@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maritza Velasco Esteabn</h1>
+<h1 align="center">Hi 👋, I'm Maritza Velasco Esteban</h1>
 <h3 align="center">Hola, soy Maritza Velasco, soy tecnica profesional en ofimática y multimedia, he trabajado como asesora comercial, no tengo conocimientos en programación, pero espero obtenerlos en el campus.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marivelascoe&label=Profile%20views&color=0e75b6&style=flat" alt="marivelascoe" /> </p>
